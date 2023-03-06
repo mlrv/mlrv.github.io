@@ -13,6 +13,6 @@ Richard Rumelt explains the difference between bad strategy and good strategy in
 
 Good strategy needs three main elements (what Richard calls the Kernel):
 
-- A [[Diagnosis]], to define and explain the nature of the challenge you want to face
-- A [[Guiding policy]], to define the high level approach to deal with the obstacles identified in the diagnosis
-- A set of [[Actions]], coordinated with one another to accomplish what's specified by the guiding policy
+- A [[Diagnosis as a key strategic element|diagnosis]], to define and explain the nature of the challenge you want to face
+- A [[Guiding policy as a key strategic element|guiding policy]], to define the high level approach to deal with the obstacles identified in the diagnosis
+- A set of [[Coherent actions as a key strategic element|actions]], coordinated with one another to accomplish what's specified by the guiding policy

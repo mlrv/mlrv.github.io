@@ -19,6 +19,8 @@ I try to focus on [[Now|a few things at a time]] at most, aiming for a healthy b
 
 I also have a bunch of [[Loose ends|loose ends]], things I've been exploring but have not found a proper place for, yet.
 
+Finally, here's a list of [[all|all notes]].
+
 <style>
   .wrapper {
     max-width: 46em;

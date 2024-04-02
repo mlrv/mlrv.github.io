@@ -34,4 +34,8 @@ I also have a bunch of [[Loose ends|loose ends]], things I've been exploring but
   .wrapper {
     max-width: 46em;
   }
+
+  #graph-wrapper {
+    margin-top: 3em;
+  }
 </style>

@@ -17,8 +17,6 @@ Ultimately, the end goal of creative research is to be able to connect the dots 
 
 I try to focus on [[Now|a few things at a time]] at most, aiming for a healthy balance between creating and consuming ideas.
 
-I also have a bunch of [[Loose ends|loose ends]], things I've been exploring but have not found a proper place for, yet.
-
 Finally, here's a list of [[all|all notes]].
 
 <style>
